@@ -1,7 +1,7 @@
 Basic Bruteforce System in c++
 ==============================
 
-COMMENT UTILISER / HOW TO USE :
+HOW TO USE :
 -------------------------------
 
 Open the file in Code::Blocks, or create a new console project in Visual Studio C++.
